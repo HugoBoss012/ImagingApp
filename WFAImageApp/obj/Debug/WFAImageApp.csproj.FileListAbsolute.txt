@@ -1,0 +1,24 @@
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.exe.config
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.exe
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.pdb
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Form1.resources
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Properties.Resources.resources
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.exe
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.pdb
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.ImageExtractor.resources
+C:\Users\Hugo\Desktop\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Menu.resources
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.exe.config
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.exe
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\bin\Debug\WFAImageApp.pdb
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csproj.AssemblyReference.cache
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csproj.SuggestedBindingRedirects.cache
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Form1.resources
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.ImageExtractor.resources
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Menu.resources
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.Properties.Resources.resources
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csproj.GenerateResource.cache
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.csproj.CoreCompileInputs.cache
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.exe
+D:\backup\USB\Small DF Projects\Imaging app\WFAImageApp\WFAImageApp\obj\Debug\WFAImageApp.pdb
